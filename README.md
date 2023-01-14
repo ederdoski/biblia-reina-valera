@@ -1,2 +1,6 @@
 # biblia-reina-valera
-Biblia reina valera, antiguo y nuevo testamento, dividida en archivos .json 
+
+* Biblia reina valera
+* Antiguo testamento
+* Nuevo testamento 
+* Archivos .json 
